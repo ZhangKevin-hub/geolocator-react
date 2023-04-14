@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/geolocator-react/static/css/main.c4eeb8a2.css",
+    "main.js": "/geolocator-react/static/js/main.559c3bb2.js",
+    "static/js/787.b407a47b.chunk.js": "/geolocator-react/static/js/787.b407a47b.chunk.js",
+    "index.html": "/geolocator-react/index.html",
+    "main.c4eeb8a2.css.map": "/geolocator-react/static/css/main.c4eeb8a2.css.map",
+    "main.559c3bb2.js.map": "/geolocator-react/static/js/main.559c3bb2.js.map",
+    "787.b407a47b.chunk.js.map": "/geolocator-react/static/js/787.b407a47b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4eeb8a2.css",
+    "static/js/main.559c3bb2.js"
+  ]
+}
